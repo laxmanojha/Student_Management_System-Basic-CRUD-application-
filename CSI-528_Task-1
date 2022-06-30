@@ -2,7 +2,7 @@ import os
 import platform
 
 global listStd #Making ListStd As Super Global Variable
-listStd = ["yugesh", "kishor", "gajen", "Gopi"] #List Of Students
+listStd = ["1-Abhishek", "2-bharti", "3-Chetan", "4-Devang","5-Harsh"] #List Of Students
 
 def manageStudent(): #Function For The Student Management System
 
